@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is home.txt in branch2 with different content
+=======
+This is home.txt in branch1
+>>>>>>> branch1
